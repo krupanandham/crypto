@@ -1,0 +1,48 @@
+* {
+    background-color: rgb(25, 25, 25);
+    color: rgb(232, 232, 232);
+    font-size: medium;
+  }
+  
+  table {
+    margin: 3% 10%;
+    width: 80%;
+  }
+  
+  td {
+    padding: 7px;
+    padding-bottom: 7px;
+    border-bottom: 2px groove white;
+  }
+  
+  img {
+   margin-right: 10px;
+    width: 35px;
+  }
+  
+  .cn{
+   display: flex;
+   align-items: center;
+   justify-content: left;
+  }
+  
+  .sml{
+   text-transform: uppercase;
+  }
+  
+  .prsnt{
+   color:green;
+   text-align: end;
+  }
+  
+  .price {
+    text-align: end;
+  }
+  
+  .tl{
+   text-align: end;
+  }
+  
+  .cap{
+   text-align: end;
+  }
